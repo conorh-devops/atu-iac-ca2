@@ -1,0 +1,11 @@
+Buchanan, I (2022) CALMS Framework - Assess your ability and measure progress on your DevOps journey. Available at: https://www.atlassian.com/devops/frameworks/calms-framework (Accessed 27 November 2022)
+
+IBM Technology (2022) Application Modernization: Three Transformations at Once. Available at: https://www.youtube.com/watch?v=RJ3UQSxwGFY (Accessed 27 November 2022)
+
+RedHat (2022)What is .NET application modernization?. Available at: https://www.redhat.com/en/topics/application-modernization/what-is-dotnet-modernization (Accessed 27 November 2022)
+
+Rao, P (2022) Why you should modernize legacy .NET applications on AWS (and how we can help). Available at: https://aws.amazon.com/blogs/modernizing-with-aws/why-you-should-modernize-legacy-net-applications-on-aws-and-how-we-can-help/ (Accessed 27 November 2022)
+
+Microsoft (2022) What is Azure DevOps?. Available at: https://learn.microsoft.com/en-us/azure/devops/user-guide/what-is-azure-devops?view=azure-devops (Accessed 27 November 2022)
+
+Miossec, O (2019) Unit testing in PowerShell, introduction to Pester. Available at: https://dev.to/omiossec/unit-testing-in-powershell-introduction-to-pester-1de7 (Accessed 28 November 2022)

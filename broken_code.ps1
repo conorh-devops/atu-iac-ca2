@@ -353,12 +353,13 @@ function Check-OpenPorts
 }
 #endregion
 
+Set-Location -Path $PSScriptRoot -PassThru
 
 Get-Content ".\Settings.ini" | foreach-object -begin {$settings=@{}} -process { 
 $k = [regex]::split($_,'='); if(($k[0].CompareTo("") -ne 0) -and 
 ($k[0].StartsWith("[") -ne $True)) { $settings.Add($k[0], $k[1]) } }
 
 $computerNames = Get-Content $settings.Get_Item("IPAddressesFile")
-
+$computerNames
 #Calling the Main function to carry out network tests
 Network-Tests $computerNames
